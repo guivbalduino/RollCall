@@ -1,0 +1,11 @@
+{
+  "identifier": "default",
+  "description": "Permiss\u00f5es padr\u00e3o do RollCall",
+  "windows": ["main"],
+  "permissions": [
+    "core:default",
+    "sql:default",
+    "dialog:default",
+    "fs:default"
+  ]
+}
